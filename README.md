@@ -1,7 +1,8 @@
 
 # Car Showcase App
 
-![Car Showcase App Screenshot]
+![Car Showcase App Screenshot](public/screenshot.png)
+
 
 ## Description
 
