@@ -21,9 +21,3 @@ Car Showcase App is a landing page that displays different car models using data
 - TypeScript
 - Tailwind CSS
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/car-showcase-app.git
